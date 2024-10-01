@@ -1,4 +1,4 @@
-[Hux Blog](https://huangxuan.me)
+[wenkai's Blog](https://wenkai.me)
 ================================
 
 > I never expected this to become popular.
